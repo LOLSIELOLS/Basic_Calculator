@@ -1,0 +1,10 @@
+C:\Users\Scoob\Desktop\calculator\bin\Release\calculator.exe.config
+C:\Users\Scoob\Desktop\calculator\bin\Release\calculator.exe
+C:\Users\Scoob\Desktop\calculator\bin\Release\calculator.pdb
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.csproj.AssemblyReference.cache
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.exe
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.pdb
+C:\Users\Scoob\Desktop\calculator\obj\Release\calculator.BasicCalculator.resources
